@@ -1,4 +1,4 @@
-<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/4960956f-c064-42a1-8b86-5ddcfde08711" />🚀 EmployeeHub – Employee Management System
+🚀 EmployeeHub – Employee Management System
 EmployeeHub is a modern and responsive Employee Management System designed to streamline workforce operations efficiently. It enables Admins, HR teams, 
  and Employees to manage tasks, workflows, and organizational activities from a centralized dashboard.
 
@@ -18,6 +18,10 @@ EmployeeHub is a modern and responsive Employee Management System designed to st
   • Firebase Firestore
   • Tailwind CSS
   • JavaScript (ES6+)
+  
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/4960956f-c064-42a1-8b86-5ddcfde08711" />
+<img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/ac1ee747-704f-4fe2-8710-bb7b83f093a2"/>
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/30dc97b0-4784-4751-95e4-bfbc25780634" />
 
 🎯 Project Objective
 The main objective of EmployeeHub is to simplify employee workflow management through an intuitive and centralized platform that improves 
